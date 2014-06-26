@@ -1,0 +1,31 @@
+							Square Roots:
+
+We have to understand the definition of a square root to understand how to find them:
+
+A square root is a number that equals another number when multiplied by itself.
+
+For example:
+
+2 x 2 = 4.  So, the square root of 4 = 2.
+3 x 3 = 9.  So, the square root of 9 = 3.
+4 x 4 = 16. So, the square root of 16 = 4.
+
+2, 4, and 16 are all examples of perfect squares, because the square of 2x2 = 4, 3x3 = 9 and 4x4 = 16.
+
+Your teacher may have made you memorize some of these numbers and their squares. If not, you will need to find all numbers that divide into the number evenly.
+
+A square number will always be a composite number; a number that can be divided up evenly.
+
+Ex: Find the square root of 36.
+
+Other than just memorizing, we can find the square root of 36 by finding all of the factor pairs!
+
+1. 1x36
+2. 2x18
+3. 3x12
+4. 4x9
+5. 6x6
+
+Notice that #5 is 6x6 which takes 6 and mutliplies it by itself to get 36. That is what we are looking for!
+
+This means that the square root of 36 is 6!

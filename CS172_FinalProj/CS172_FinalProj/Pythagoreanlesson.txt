@@ -1,0 +1,44 @@
+	 					Pythagorean Theorem:
+	
+		|\
+		| \	   
+		|  \
+		|   \
+		|    \
+		|     \
+	     B	|      \   C (hypotenuse)
+		|	\
+		|	 \
+		|         \
+		|          \
+		|___________\ 
+	      	      A
+
+In a right angled triangle, the square of the hypotenuse is equal to the sum of the squares of the other two sides.
+
+So: a^2 + b^2 = c^2
+
+For the example above:
+
+A = 3
+B = 4
+C = ?
+
+We do not know c, so we will have to use the Pythagorean Theorem to find out what it is!
+
+Using the Pythagorean Theorem, we can see that the square of A, and the square of B, will equal the square of C.
+
+So:
+square of A = 3*3 = 9
+square of B = 4*4 = 16
+
+square of A + square of B = Square of C = 25
+
+Now we take the square root of the Square of C to find C! Simple!:
+
+sqrt(25) = 5
+
+The hypotenuse is 5!
+
+
+
